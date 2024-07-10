@@ -66,10 +66,11 @@ native-web-template/
 ├── tsconfig.json         # TypeScript configuration
 ├── jest.config.js        # Jest configuration
 └── README.md             # Project documentation
+-----------------------------------------------------------
+```
 
-
-
-## Contributing
+ ## Contributing
 ### Contributions are welcome! Feel free to submit a pull request or open an issue.
 
 # Happy coding!
+
